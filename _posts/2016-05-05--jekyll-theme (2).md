@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "对这个 jekyll 博客主题的改版和重构"
-date:   2016-03-12 11:40:18 +0800
+title:  "hello android!"
+date:   2016-05-05 10:14:54
 categories: jekyll
-tags: jekyll 端口 markdown Foxit RubyGems HTML CSS
-author: Haoyang Gao
+tags: jekyll
+excerpt: 第一发表android的文章。
 ---
 
 * content
