@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "重构"
-date:   2016-03-12 12:40:18 +0800
+title:  "hello android!"
+date:   2016-05-05 12:40:18 +0800
 categories: jekyll
 tags: jekyll 端口 markdown Foxit RubyGems HTML CSS
-author: Haoyang Gao
+author: robotlife
 ---
 
 * content
