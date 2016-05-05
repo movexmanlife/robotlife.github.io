@@ -10,35 +10,25 @@ icon: heart
 
 ## 关于我
 
-在校硕士研究生一枚，就读于西安交通大学软件工程专业，2016年毕业。即将入职阿里巴巴，前端开发工程师。
+一个android爱好者，目前从事android开发。喜爱开源，希望自己在技术上，求知若渴。
+坐标杭州，单身狗一只。平时多运动，战时无bug。
 
-主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
-
-热爱美好的事物，热爱摇滚乐，组过乐队，卖过唱。
-
-很喜欢崔健的歌词：现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
-
-还有，学习是一个非常愉快的过程。共同加油！
-
-* 2016.6 毕业于西安交通大学 软件工程硕士
-* 2015.12 获得2014-2015学年二等奖学金
-* 2015.7-2015.8 联想服务，前端开发工程师（实习生）
-* 2013.6 毕业于西安交通大学 理学院
+* 2015.8至今 杭州某金融互联网公司
+* ---    很乱
+* 2013.5 很乱
+* 2011.7 珠海某某科技公司
+* 2011.7 桂林电子科技大学
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [Twitter](https://twitter.com/gaohaoyang126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+* GitHub：[robotlife](https://github.com/robotlife)
+* email：940350851@126.com
+* [Weibo](http://weibo.com/robotke)
+* [知乎](https://www.zhihu.com/people/chen-ming-51-3)
 
 ## 关于本站
 
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/robotlife/robotlife.github.io](https://github.com/robotlife/robotlife.github.io)**
 
 ~欢迎使用~
 
