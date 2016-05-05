@@ -14,7 +14,7 @@ icon: heart
 坐标杭州，单身狗一只。平时多运动，战时无bug。
 
 * 2015.8至今 杭州某金融互联网公司
-* ---
+* ...
 * 2011.7 珠海某某科技公司
 * 2011.7 桂林电子科技大学
 
@@ -39,7 +39,7 @@ icon: heart
 
 ## 友情链接
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/)
+[干货集中营](gank.io) 
 
 ## Comments
 
