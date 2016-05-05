@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何提高技术的能力，来自PHP之父的金玉良言！"
-date:   2016-05-05 12:40:18
+date:   2015-08-05 12:40:18
 categories: 编程人生
 tags: 技术提高
 author: robotlife
